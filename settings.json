@@ -1,0 +1,8 @@
+{
+  "php.validate.executablePath": "C:/tools/php83/php.exe",
+  "php.executablePath": "C:/tools/php83/php.exe",
+  "php.stubs": [
+    "wordpress",
+    "*"
+  ]
+}
